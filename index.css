@@ -1,0 +1,62 @@
+html, body, .flex-container {
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+}
+
+body {
+    overflow: hidden;
+    background: linear-gradient(to bottom right, #fd5474, #fedb93);
+}
+
+.flex-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    font-weight: bold;
+    display: block;
+}
+
+.first-name {
+    font-size: 8em;
+    opacity: 1;
+}
+
+.surname {
+    font-size: 5em;
+    margin-top: -0.8em;
+    text-align: right;
+    color: #FFE1E1;
+}
+
+.things-i-do { 
+    display: block;
+    padding-bottom: 5px;
+}
+
+.email { 
+    display: block;
+    padding-bottom: 5px;
+}
+
+.email > a {
+    color: #ffdada;
+    text-decoration: none;
+}
+
+.email a:hover {
+    text-decoration: underline;
+}
+
+.bottom-left-text {
+    text-align: left;
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    clear: both;
+}
