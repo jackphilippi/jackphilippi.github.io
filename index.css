@@ -30,7 +30,8 @@ body {
     font-size: 5em;
     margin-top: -0.8em;
     text-align: right;
-    color: #FFE1E1;
+    color: #ffe1e1;
+    text-shadow: 5px 5px #fd9082;
 }
 
 .things-i-do { 
