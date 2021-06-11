@@ -7,11 +7,11 @@ html, body, .flex-container {
 body {
     margin: 0;
     overflow: hidden;
-    background: -webkit-linear-gradient(to bottom right, #fd5474, #fedb93); 
-    background:    -moz-linear-gradient(to bottom right, #fd5474, #fedb93); 
-    background:     -ms-linear-gradient(to bottom right, #fd5474, #fedb93); 
-    background:      -o-linear-gradient(to bottom right, #fd5474, #fedb93); 
-    background:         linear-gradient(to bottom right, #fd5474, #fedb93);
+    background: -webkit-linear-gradient(to bottom right, rgb(253, 84, 116), rgb(254, 219, 147)); 
+    background:    -moz-linear-gradient(to bottom right, rgb(253, 84, 116), rgb(254, 219, 147)); 
+    background:     -ms-linear-gradient(to bottom right, rgb(253, 84, 116), rgb(254, 219, 147)); 
+    background:      -o-linear-gradient(to bottom right, rgb(253, 84, 116), rgb(254, 219, 147)); 
+    background:         linear-gradient(to bottom right, rgb(253, 84, 116), rgb(254, 219, 147));
 }
 
 .flex-container {
