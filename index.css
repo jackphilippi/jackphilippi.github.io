@@ -7,7 +7,6 @@ html, body, .flex-container {
 body {
     margin: 0;
     overflow: hidden;
-    background: linear-gradient(to bottom right, #fd5474, #fedb93);
     background: -webkit-linear-gradient(to bottom right, #fd5474, #fedb9); 
     background:    -moz-linear-gradient(to bottom right, #fd5474, #fedb9); 
     background:     -ms-linear-gradient(to bottom right, #fd5474, #fedb9); 
