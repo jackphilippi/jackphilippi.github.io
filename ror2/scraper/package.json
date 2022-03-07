@@ -1,0 +1,13 @@
+{
+    "name": "datascraper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Jack Philippi <https://jackphilippi.com.au>",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "jsdom": "^19.0.0",
+        "jquery": "^3.6.0"
+    }
+}
