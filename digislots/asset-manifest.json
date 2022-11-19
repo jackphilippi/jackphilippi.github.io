@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/digislots/static/css/main.17d1e563.chunk.css",
-    "main.js": "/digislots/static/js/main.059d26b5.chunk.js",
-    "main.js.map": "/digislots/static/js/main.059d26b5.chunk.js.map",
+    "main.js": "/digislots/static/js/main.1aa19422.chunk.js",
+    "main.js.map": "/digislots/static/js/main.1aa19422.chunk.js.map",
     "runtime-main.js": "/digislots/static/js/runtime-main.9e707ccf.js",
     "runtime-main.js.map": "/digislots/static/js/runtime-main.9e707ccf.js.map",
     "static/css/2.d06613e6.chunk.css": "/digislots/static/css/2.d06613e6.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.d06613e6.chunk.css",
     "static/js/2.3fd07b91.chunk.js",
     "static/css/main.17d1e563.chunk.css",
-    "static/js/main.059d26b5.chunk.js"
+    "static/js/main.1aa19422.chunk.js"
   ]
 }
